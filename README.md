@@ -1,2 +1,11 @@
-# 3RD-Yr-week-3-module
-Week 3 C++ programs implementing Merge Sort, Quick Sort, and Heap Sort with easy and medium level problems.
+# Week 3 – Sorting Algorithms
+
+This repository contains the C++ implementation of Week 3 assignments on **Merge Sort, Quick Sort, and Heap Sort**. It includes easy and medium level programs demonstrating sorting techniques and their real-world applications.
+
+## Topics
+- Merge Sort
+- Quick Sort
+- Heap Sort
+
+## Language
+- C++
